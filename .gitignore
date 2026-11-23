@@ -1,0 +1,23 @@
+# Data (UNSW-NB15 is not redistributed)
+data/*
+!data/README.md
+
+# Model artefacts (download separately, see models/README.md)
+models/*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets / local config
+.env
+.streamlit/secrets.toml
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

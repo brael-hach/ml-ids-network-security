@@ -1,0 +1,13 @@
+# Analysis notebook + Streamlit console
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+shap
+joblib
+matplotlib
+seaborn
+ipywidgets
+streamlit
+altair
